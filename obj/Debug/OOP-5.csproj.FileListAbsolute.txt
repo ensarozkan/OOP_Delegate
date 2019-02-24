@@ -1,0 +1,29 @@
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\obj\Debug\OOP-5.csprojAssemblyReference.cache
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\obj\Debug\OOP-5.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\bin\Debug\OOP-5.exe.config
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\bin\Debug\OOP-5.exe
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\bin\Debug\OOP-5.pdb
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\obj\Debug\OOP-5.exe
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\obj\Debug\OOP-5.pdb
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\bin\Debug\Faker.NET45.dll
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\bin\Debug\de-DE\Faker.NET45.resources.dll
+C:\Users\nukhe\source\repos\OOP-1\OOP-5\obj\Debug\OOP-5.csproj.CopyComplete
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\bin\Debug\OOP-5.exe.config
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\bin\Debug\OOP-5.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\bin\Debug\OOP-5.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\bin\Debug\Faker.NET45.dll
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\bin\Debug\de-DE\Faker.NET45.resources.dll
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\obj\Debug\OOP-5.csprojAssemblyReference.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\obj\Debug\OOP-5.csproj.CoreCompileInputs.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\obj\Debug\OOP-5.csproj.CopyComplete
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\obj\Debug\OOP-5.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\OOP-1\OOP-5\obj\Debug\OOP-5.pdb
+C:\Users\Section2\Desktop\OOP-5\bin\Debug\OOP-5.exe.config
+C:\Users\Section2\Desktop\OOP-5\bin\Debug\OOP-5.exe
+C:\Users\Section2\Desktop\OOP-5\bin\Debug\OOP-5.pdb
+C:\Users\Section2\Desktop\OOP-5\bin\Debug\de-DE\Faker.NET45.resources.dll
+C:\Users\Section2\Desktop\OOP-5\obj\Debug\OOP-5.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\OOP-5\obj\Debug\OOP-5.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\OOP-5\obj\Debug\OOP-5.csproj.CopyComplete
+C:\Users\Section2\Desktop\OOP-5\obj\Debug\OOP-5.exe
+C:\Users\Section2\Desktop\OOP-5\obj\Debug\OOP-5.pdb
